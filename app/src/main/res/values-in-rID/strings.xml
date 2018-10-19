@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Note Crypt Pro</string>
+    <string name="action_changePassword">Ubah sandi</string>
+    <string name="action_newNote">Tambah catatan baru</string>
+    <string name="action_about">Tentang</string>
+    <string name="hint_field_new_password">Sandi baru</string>
+    <string name="hint_field_conf_password">Konfirmasi sandi</string>
+    <string name="title_changeMasterPass">Masukkan sandi utama</string>
+    <string name="title_databaseLocation">Masukkan nama database:</string>
+    <string name="desc_fileManager">Buka berkas manager</string>
+    <string name="butt_open">Buka</string>
+    <string name="butt_create">Buat</string>
+    <string name="hint_field_password">Kata Sandi</string>
+    <string name="title_note">Judul :</string>
+    <string name="tags_note">Tags :</string>
+    <string name="note_note">Catatan :</string>
+    <string name="hint_field_title">Judul</string>
+    <string name="hint_field_tags">Tag1, Tag2, Tag3&#8230;</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_edit">Ubah</string>
+    <string name="action_delete">Hapus</string>
+    <string name="toast_success_newNote">Berhasil dibuat</string>
+    <string name="toast_fatalError">FATAL ERROR!</string>
+    <string name="toast_IOError">I/O Error!</string>
+    <string name="title_password">Masukkan Password</string>
+    <string name="toast_emptyPassword">Masukan password untuk melanjutkan</string>
+    <string name="toast_wrongPassword">Sandi salah atau database rusak</string>
+    <string name="toast_wrongPath">Tidak dapat membaca database.\nPastikan lokasi telah benar</string>
+    <string name="toast_errorCreatingDB">Gagal membuat database\nPastikan lokasi telah benar</string>
+    <string name="toast_wrongNewPassword">Sandi tidak sama</string>
+    <string name="toast_fieldsNotFilled">Pastikan akan telah mengisi kolom dengan benar</string>
+    <string name="dialog_backNoSave">Catatan tidak akan disimpan.\nAnda yakin ingin keluar?</string>
+    <string name="toast_success_newDB">Database berhasil dibuat</string>
+    <string name="toast_success_changePsw">Sandi berhasil diganti</string>
+    <string name="action_filter">Sortir berdasarkan TAG</string>
+    <string name="dialog_deleteNote">Apakah Anda yakin ingin menghapus catatan?</string>
+    <string name="title_deleteNote">Hapus Catatan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="action_sort">Daftar sortir</string>
+    <string name="toast_sort_alphabet">Sortir berdasarkan huruf abjad</string>
+    <string name="toast_sort_creation">Sortir berdasarkan waktu</string>
+    <string name="toast_success_deleteNote">Berhasil dihapus</string>
+    <string name="dialog_backClose">Yakin ingin menutup database?</string>
+    <string name="title_backClose">keluar</string>
+    <string name="toast_version">Versi Notecrypt</string>
+    <string name="toast_createdBy">\nDibuat oleh Ludovico de Nittis</string>
+    <string name="toast_errorVersion">Tidak dapat menemukan versi!</string>
+    <string name="no_notes">Catatan Kosong.\nTekan + untuk menambah catatan baru.</string>
+    <string name="no_textNote">Empty Note Text.</string>
+    <string name="toast_errorInvalidKey">Gagal! Sandi yang dimasukkan terdapat karakter yang tidak diijinkan</string>
+    <string name="sure">Yakin</string>
+    <string name="sure_rate">Beri Nilai Sekarang</string>
+    <string name="later">nanti</string>
+    <string name="rate">Beri Nilai</string>
+    <string name="rate_message">Jika Note Crypt bermanfaat untuk Anda, Kami sangat berharap Anda bisa memberi peringkat untuk aplikasi Note Crypt. Terima Kasih!</string>
+    <string name="upgrade_message">Dengan mendonasikan untuk pengembangan aplikasi, Anda akan mendapatkan fitur tambahan</string>
+    <string name="action_donate">Donasi</string>
+    <string name="pref_drawer">Mulai Filter Animasi</string>
+    <string name="pref_drawer_summ">Tampilkan Animasi dari navigasi sebelah kanan</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="title_recentDB">Database berada pada folder default (klik untuk membuka):</string>
+    <string name="deleteRecent_message">Hapus Database?\nAksi ini tidak dapat dirubah.</string>
+    <string name="pref_textSize">Ubah ukuran text untuk catatab</string>
+    <string-array name="pref_textSize_entries">
+        <item >Sangat Kecil</item>
+        <item >Kecil</item>
+        <item >Normal</item>
+        <item >Besar</item>
+        <item >Sangat Besar</item>
+    </string-array>
+    <string-array name="pref_textSize_values">
+        <item >15</item>
+        <item >18</item>
+        <item >20</item>
+        <item >22</item>
+        <item >25</item>
+    </string-array>
+    <string name="pref_textSize_default">20</string>
+    <string name="action_search">Cari</string>
+    <string name="action_starred">Penting</string>
+    <string name="action_remove">Hapus</string>
+    <string name="action_overwrite">Timpa</string>
+    <string name="overwrite_message">File dengan nama berikut telah tersedia, Jika dilanjutkan akan menimpa file yang telah tersedia.</string>
+    <string name="warning">Peringatan</string>
+    <string name="localeWarning">Direkomendasikan untuk menggunakan kombinasi huruf(A-Z), angka dan simbol.</string>
+    <string name="action_share">Share</string>
+    <string name="explain_external_permission">Notecrypt membutuhkan akses baca &amp; tulis kedalam perangkan untuk menyimpan catatan. Jika tidak diijinkan secara permanen, Anda bisa memberikan ijin secara manual pada menu setting -> System -> Apps > Notecrypt</string>
+</resources>
